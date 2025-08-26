@@ -25,7 +25,7 @@ Develop an **interactive Power BI dashboard** that helps businesses:
   - Bar/Column charts for regional and product comparison  
   - Line charts for trend analysis  
   - Pie/Donut charts for market share breakdown  
-- **Slicers & Bookmarks:** Easy filtering by Region, Product, and Time; drill-through for detailed insights  
+- **Slicers & Bookmarks:** Easy filtering by Region and Product; drill-through for detailed insights  
 - **Business Insights:** Identified top-performing products and regions, highlighted opportunities for optimization  
 
 ---
