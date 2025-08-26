@@ -31,7 +31,7 @@ Develop an **interactive Power BI dashboard** that helps businesses:
 ---
 
 ## 📊 Dashboard Screenshots
-<img src="Global_Business_Performance.png" alt="Dashboard Overview" width="500"/>
+<img src="Global_Business_Performance.png" alt="Dashboard Overview" width="700"/>
 
 
 ## 💡 Business Impact
