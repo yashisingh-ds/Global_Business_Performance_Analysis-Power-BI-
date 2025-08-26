@@ -6,7 +6,7 @@ Developed a comprehensive executive-level Power BI dashboard to monitor key busi
 Develop an **interactive Power BI dashboard** that helps businesses:  
 - Track total sales, profit, and quantities by product and region  
 - Identify high-performing and underperforming areas  
-- Visualize monthly, quarterly, and yearly trends  
+- Visualize monthly and yearly trends, i.e, Total sales by Months and Years.
 - Enable **data-driven decision-making** for strategic growth
 
   ## 🛠 Tools & Technologies
@@ -31,9 +31,8 @@ Develop an **interactive Power BI dashboard** that helps businesses:
 ---
 
 ## 📊 Dashboard Screenshots
-*(Add high-quality screenshots of your dashboard here with captions: e.g., “Sales by Region”, “Top Products KPIs”)*  
+<img src="Global_Business_Performance.png" alt="Dashboard Overview" width="500"/>
 
----
 
 ## 💡 Business Impact
 - Enables fast, actionable decisions for sales and marketing teams  
